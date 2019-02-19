@@ -7,8 +7,8 @@ dependencies:
   - scipy
   - nibabel
   - pillow
-  - skimage
-  - sklearn
+  - scikit-image
+  - scikit-learn
   - jupyter
   - pandas
   - matplotlib
