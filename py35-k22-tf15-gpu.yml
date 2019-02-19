@@ -14,6 +14,6 @@ dependencies:
   - matplotlib
   - seaborn
   - pip:
-    - tensorflow-gpu==1.5.0
-    - keras==2.20
+    - tensorflow-gpu=1.5.0
+    - keras=2.2.0
   
